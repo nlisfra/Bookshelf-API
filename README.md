@@ -15,7 +15,7 @@ Bookshelf API adalah API RESTful sederhana yang dikembangkan menggunakan [Hapi.j
 ## 🛠️ Cara Menjalankan Proyek
 1. **Klon repositori ini**
    ```bash
-   git clone https://github.com/username/bookshelf-api.git
+   git clone https://github.com/nlisfra/Bookshelf-API.git
    cd bookshelf-api
 
 2. **Install dependency**
